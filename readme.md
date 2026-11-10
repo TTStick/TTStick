@@ -16,31 +16,28 @@
 
 ### 🐾 Projects
 
-<table>
-<tr>
-  <td width="58%" valign="top">
-    <h3 align="center">🐱 <a href="https://github.com/TTStick/meowtopia">meowtopia</a></h3>
-    <p align="center"><b>猫窝 · 不催你的养猫游戏</b></p>
-    <p align="center"><img src="https://raw.githubusercontent.com/TTStick/meowtopia/main/docs/images/hero.png" width="100%" alt="同一只猫，在网页、iPhone、Android、Mac 菜单栏和 Apple Watch 上陪着你" /></p>
-    <p>一只只属于你的小猫，一个只属于它的小窝；窝外面，是一整个热闹又温柔的猫猫小镇。网页 / iPhone / Android / Mac 菜单栏 / Apple Watch，同一只猫陪着你。</p>
-    <p align="center">
-      <a href="https://mycat.xioix.xin/"><img src="https://img.shields.io/badge/官网-猫窝-F08A5D?style=flat-square" alt="官网" /></a>
-      <a href="https://github.com/TTStick/meowtopia"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    </p>
-  </td>
-  <td width="42%" valign="top">
-    <h3 align="center">🌱 <a href="https://github.com/TTStick/Before-Long">Before-Long</a></h3>
-    <p align="center"><b>在头发变长之前</b></p>
-    <p align="center"><img src="https://raw.githubusercontent.com/TTStick/Before-Long/main/docs/images/title.jpg" width="140" alt="标题画面：窗边的背影，一头长发" /></p>
-    <p>一个安静的安卓小游戏。抓起一把头发绕个小卷，再慢慢编一条辫子。没有分数，没有倒计时，也不会失败。</p>
-    <p align="center">
-      <a href="https://github.com/TTStick/Before-Long/releases/latest"><img src="https://img.shields.io/badge/下载-APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="下载 APK" /></a>
-    </p>
-  </td>
-</tr>
-</table>
+<h3 align="center">🐱 <a href="https://github.com/TTStick/meowtopia">meowtopia</a> · 猫窝</h3>
 
-<sub>🔒 标记为私有仓库 · 点开标题展开全部项目</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/TTStick/meowtopia/main/docs/images/hero.png" width="100%" alt="同一只猫，在网页、iPhone、Android、Mac 菜单栏和 Apple Watch 上陪着你" /></p>
+
+<b>猫窝 · 不催你的养猫游戏</b> — 一只只属于你的小猫，一个只属于它的小窝；窝外面，是一整个热闹又温柔的猫猫小镇。网页 / iPhone / Android / Mac 菜单栏 / Apple Watch，同一只猫陪着你。
+
+<p align="center">
+  <a href="https://mycat.xioix.xin/"><img src="https://img.shields.io/badge/官网-猫窝-F08A5D?style=flat-square" alt="官网" /></a>
+  <a href="https://github.com/TTStick/meowtopia"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+</p>
+
+<h3 align="center">🌱 <a href="https://github.com/TTStick/Before-Long">Before-Long</a> · 在头发变长之前</h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/TTStick/Before-Long/main/docs/images/title.jpg" width="200" alt="标题画面：窗边的背影，一头长发" /></p>
+
+<b>在头发变长之前</b> — 一个安静的安卓小游戏。抓起一把头发绕个小卷，再慢慢编一条辫子。没有分数，没有倒计时，也不会失败。
+
+<p align="center">
+  <a href="https://github.com/TTStick/Before-Long/releases/latest"><img src="https://img.shields.io/badge/下载-APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="下载 APK" /></a>
+</p>
+
+<sub>🔒 标记为私有仓库 · 点开下面的标题展开全部项目</sub>
 
 <details>
 <summary><b>🍎 Apple 生态</b> · 5 个项目</summary>
@@ -113,13 +110,15 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TTStick&show_icons=true&theme=rose_pine&hide_border=true&bg_color=191724" />
-  &nbsp;&nbsp;
-  <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TTStick&theme=rose_pine&hide_border=true&background=191724" />
+  <img width="420" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TTStick&show_icons=true&theme=rose_pine&hide_border=true&bg_color=191724" />
 </p>
 
 <p align="center">
-  <img height="150" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TTStick&layout=compact&theme=rose_pine&hide_border=true&bg_color=191724" />
+  <img width="420" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TTStick&theme=rose_pine&hide_border=true&background=191724" />
+</p>
+
+<p align="center">
+  <img width="420" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TTStick&layout=compact&theme=rose_pine&hide_border=true&bg_color=191724" />
 </p>
 
 ---
